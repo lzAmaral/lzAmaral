@@ -1,16 +1,29 @@
-## Hi there 👋
+# ☝🏻​ Olá, eu sou o Luiz Amaral
 
-<!--
-**lzAmaral/lzAmaral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (2º semestre)  
+💻 Focado em **Java** 
+🚀 Aprendendo e criando projetos para evoluir como dev  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias & Ferramentas
+- ☕ Java  
+- 📱 Git & GitHub  
+- ⚡ Em constante aprendizado  
+
+---
+
+## 📊 Minhas Estatísticas no GitHub
+![Luiz GitHub stats](https://github-readme-stats.vercel.app/api?username=lzAmaral&show_icons=true&theme=tokyonight)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lzAmaral&layout=compact&theme=tokyonight)
+
+---
+
+## Sobre mim
+- Tenho **19 anos**  
+- Busco sempre aprender coisas novas e compartilhar conhecimento  
+
+---
+
+📫 Como me encontrar: [LinkedIn] (https://www.linkedin.com/in/luiz-gustavo-de-campos-amaral-122622278/) | [Email](luizgustavo092005@gmail.com)  
