@@ -26,4 +26,4 @@
 
 ---
 
-📫 Como me encontrar: [LinkedIn] (https://www.linkedin.com/in/luiz-gustavo-de-campos-amaral-122622278/) | [Email](luizgustavo092005@gmail.com)  
+📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/luiz-gustavo-de-campos-amaral-122622278/) | [Email] luizgustavo092005@gmail.com
