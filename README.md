@@ -2,7 +2,7 @@
 
 # Olá, eu sou o Luiz Amaral 
 
-**Estagiário de TI no SESI · Apaixonado por Java & Back-end**
+**Estagiário de TI no SESI · JAVA**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-gustavo-de-campos-amaral-122622278/)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizgustavo092005@gmail.com)
