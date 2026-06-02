@@ -2,7 +2,7 @@
 
 # Olá, eu sou o Luiz Amaral 
 
-**Estagiário de TI no SESI · JAVA**
+**Estagiário de TI no SESI **
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-gustavo-de-campos-amaral-122622278/)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizgustavo092005@gmail.com)
@@ -39,23 +39,11 @@ Acredito que a melhor forma de aprender é colocando a mão no código e por iss
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
+![NODE.JS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 </div>
 
 ---
 
-## 🚀 Projetos em Destaque
-
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| [🔗 Encurtador de URL](https://github.com/lzAmaral/Encurtador-de-URL) | Encurtador de URLs com back-end em Spring Boot e front-end funcional | Java, Spring Boot, HTML, CSS, JS |
-| [🤖 Estudos RAG + OpenAI](https://github.com/lzAmaral/Estudos_RAG_OpenAI) | Experimentos com Retrieval-Augmented Generation usando Java e OpenAI | Java, OpenAI API |
-| [📅 Sistema de Agendamento](https://github.com/lzAmaral/SISTEMA-DE-AGENDAMENTO) | Sistema completo de agendamento | Java |
-| [☁️ Desafio AWS](https://github.com/lzAmaral/Desafio-Implementa-oAWS) | Desafio prático de implementação em cloud | AWS |
-| [🌐 Meu Portfólio](https://github.com/lzAmaral/Meu-portifolio) | Portfólio pessoal desenvolvido com TypeScript | TypeScript |
-| [💡 Solux UPX](https://github.com/lzAmaral/Solux-UPX) | Projeto acadêmico interdisciplinar | JavaScript |
-
----
 
 ## 📊 GitHub Stats
 
