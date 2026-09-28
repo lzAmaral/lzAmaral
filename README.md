@@ -1,52 +1,28 @@
-<div align="center">
+![Luiz Amaral — Aplicações web, dados e inteligência artificial](assets/header.svg)
 
-# Luiz Amaral
+[LinkedIn](https://www.linkedin.com/in/luiz-amarall/) &nbsp; / &nbsp; [E-mail](mailto:luizgustavo092005@gmail.com) &nbsp; / &nbsp; [Portfólio · código](https://github.com/lzAmaral/Meu-portifolio)
 
-### Desenvolvimento web · APIs · Dados · Inteligência artificial
+Desenvolvo aplicações com **Java e TypeScript**, desde APIs e bancos de dados até interfaces web. Também exploro processamento de dados e integração de IA em projetos práticos.
 
-Construindo aplicações que conectam interfaces, serviços e dados.
+### Projetos selecionados
 
-[LinkedIn](https://www.linkedin.com/in/luiz-amarall/) · [E-mail](mailto:luizgustavo092005@gmail.com) · [Portfólio — código-fonte](https://github.com/lzAmaral/Meu-portifolio)
+**[WebCars ↗](https://github.com/lzAmaral/FluxoMind_WebCars)**<br>
+Catálogo de veículos com comparação, assistente de IA baseado em RAG e gestão de leads.<br>
+<sub>Next.js · TypeScript · Express · PostgreSQL · pgvector</sub>
 
-</div>
+**[Mercado Tech Brasil ↗](https://github.com/lzAmaral/caged-etl-analytics)**<br>
+Processamento de dados do Novo CAGED e dashboard para explorar o mercado de trabalho em TI.<br>
+<sub>Java · Spring Boot · Spring Batch · PostgreSQL</sub>
 
----
+**[Blog API ↗](https://github.com/lzAmaral/blog-backend)**<br>
+API de publicação de artigos com autenticação, upload de imagens e controle de autoria.<br>
+<sub>Node.js · TypeScript · Express · MySQL</sub>
 
-## Sobre mim
+[Todos os projetos →](https://github.com/lzAmaral?tab=repositories)
 
-Sou Luiz Amaral e desenvolvo projetos com **Java, TypeScript e JavaScript**, passando pelo back-end, pelas interfaces web e pela integração entre sistemas.
+### Stack
 
-Meus projetos incluem APIs REST, processamento de dados e aplicações com inteligência artificial. Gosto de aprender construindo: transformar uma ideia em algo que funciona, entender as decisões técnicas e melhorar a solução ao longo do caminho.
-
-## Projetos em destaque
-
-| Projeto | O que construí | Tecnologias |
-| --- | --- | --- |
-| [WebCars](https://github.com/lzAmaral/FluxoMind_WebCars) | Catálogo de veículos com comparação, assistente de IA com RAG e painel de gestão de carros e leads. | Next.js, TypeScript, Express, PostgreSQL, pgvector |
-| [Mercado Tech Brasil](https://github.com/lzAmaral/caged-etl-analytics) | Pipeline ETL e dashboard para explorar contratações e faixas salariais de TI com dados do Novo CAGED. | Java, Spring Boot, Spring Batch, PostgreSQL, Chart.js |
-| [Blog — API](https://github.com/lzAmaral/blog-backend) | API REST com autenticação JWT, publicação de artigos, upload de imagens e controle de autoria. | Node.js, Express, TypeScript, MySQL |
-| [Encurtador de URLs](https://github.com/lzAmaral/Encurtador-de-URL) | Aplicação para encurtar URLs, integrando back-end Java a uma interface web. | Java, Spring Boot, HTML, CSS, JavaScript |
-
-[Ver todos os repositórios →](https://github.com/lzAmaral?tab=repositories)
-
-## Tecnologias nos meus projetos
-
-**Back-end**
-
-Java · Spring Boot · Spring Batch · Node.js · Express · APIs REST
-
-**Front-end**
-
-TypeScript · JavaScript · Next.js · HTML · CSS · Tailwind CSS
-
-**Dados e IA**
-
-PostgreSQL · MySQL · ETL · RAG · pgvector · Integração com APIs de IA
-
-**Ferramentas**
-
-Git · GitHub · Docker · Maven · Flyway
-
-## Vamos conversar
-
-Para conversar sobre projetos, oportunidades ou trocar ideias, me encontre no [LinkedIn](https://www.linkedin.com/in/luiz-amarall/) ou envie um [e-mail](mailto:luizgustavo092005@gmail.com).
+**Back-end** &nbsp; Java, Spring Boot, Node.js, Express<br>
+**Front-end** &nbsp; TypeScript, JavaScript, Next.js, Tailwind CSS<br>
+**Dados** &nbsp; PostgreSQL, MySQL, Spring Batch, pgvector<br>
+**Ferramentas** &nbsp; Git, Docker, Maven, Flyway

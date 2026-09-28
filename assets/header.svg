@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">Luiz Amaral</title>
+  <desc id="desc">Desenvolvimento de software. Aplicações web, dados e inteligência artificial.</desc>
+  <rect width="1200" height="260" rx="12" fill="#14181e"/>
+  <rect x="64" y="62" width="32" height="3" fill="#d1d5db"/>
+  <text x="64" y="136" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700" letter-spacing="-1.5" fill="#fafafa">Luiz Amaral</text>
+  <text x="66" y="182" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#a1a1aa">Aplicações web, dados e inteligência artificial.</text>
+  <text x="1136" y="218" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="1" fill="#71717a">lzAmaral / GitHub</text>
+</svg>
