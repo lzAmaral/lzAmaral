@@ -1,12 +1,12 @@
 <div align="center">
 
-# Olá, eu sou o Luiz Amaral 
+# Luiz Amaral
 
-**Estagiário de TI no SESI **
+### Desenvolvimento web · APIs · Dados · Inteligência artificial
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-gustavo-de-campos-amaral-122622278/)
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizgustavo092005@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lzAmaral)
+Construindo aplicações que conectam interfaces, serviços e dados.
+
+[LinkedIn](https://www.linkedin.com/in/luiz-gustavo-de-campos-amaral-122622278/) · [E-mail](mailto:luizgustavo092005@gmail.com) · [Portfólio — código-fonte](https://github.com/lzAmaral/Meu-portifolio)
 
 </div>
 
@@ -14,51 +14,39 @@
 
 ## Sobre mim
 
-Tenho 19 anos e sou estudante de **Análise e Desenvolvimento de Sistemas** (3º semestre). Foco meus estudos no desenvolvimento back-end com **Java** e Spring Boot, mas também me aventuro no front-end quando o projeto pede.
+Sou Luiz Amaral e desenvolvo projetos com **Java, TypeScript e JavaScript**, passando pelo back-end, pelas interfaces web e pela integração entre sistemas.
 
-Acredito que a melhor forma de aprender é colocando a mão no código e por isso crio projetos pessoais pra consolidar tudo que estudo.
+Meus projetos incluem APIs REST, processamento de dados e aplicações com inteligência artificial. Gosto de aprender construindo: transformar uma ideia em algo que funciona, entender as decisões técnicas e melhorar a solução ao longo do caminho.
 
--  Estagiário de TI no **SESI** · desde abril de 2026
--  Focado em evolução contínua como desenvolvedor
--  Atualmente aprofundando conhecimentos em **Spring Boot** e **AWS**
--  Explorando **IA com RAG** e integração com APIs de LLM
--  Sempre aberto a feedbacks e colaborações
+## Projetos em destaque
 
----
+| Projeto | O que construí | Tecnologias |
+| --- | --- | --- |
+| [WebCars](https://github.com/lzAmaral/FluxoMind_WebCars) | Catálogo de veículos com comparação, assistente de IA com RAG e painel de gestão de carros e leads. | Next.js, TypeScript, Express, PostgreSQL, pgvector |
+| [Mercado Tech Brasil](https://github.com/lzAmaral/caged-etl-analytics) | Pipeline ETL e dashboard para explorar contratações e faixas salariais de TI com dados do Novo CAGED. | Java, Spring Boot, Spring Batch, PostgreSQL, Chart.js |
+| [Blog — API](https://github.com/lzAmaral/blog-backend) | API REST com autenticação JWT, publicação de artigos, upload de imagens e controle de autoria. | Node.js, Express, TypeScript, MySQL |
+| [Encurtador de URLs](https://github.com/lzAmaral/Encurtador-de-URL) | Aplicação para encurtar URLs, integrando back-end Java a uma interface web. | Java, Spring Boot, HTML, CSS, JavaScript |
 
-## 🛠️ Tecnologias & Ferramentas
+[Ver todos os repositórios →](https://github.com/lzAmaral?tab=repositories)
 
-<div align="center">
+## Tecnologias nos meus projetos
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![NODE.JS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
-</div>
+**Back-end**
 
----
+Java · Spring Boot · Spring Batch · Node.js · Express · APIs REST
 
+**Front-end**
 
-## 📊 GitHub Stats
+TypeScript · JavaScript · Next.js · HTML · CSS · Tailwind CSS
 
-<div align="center">
+**Dados e IA**
 
-![Luiz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lzAmaral&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
+PostgreSQL · MySQL · ETL · RAG · pgvector · Integração com APIs de IA
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lzAmaral&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)
+**Ferramentas**
 
-</div>
+Git · GitHub · Docker · Maven · Flyway
 
----
+## Vamos conversar
 
-<div align="center">
-
-*"A melhor forma de aprender é construindo."*
-
-</div>
+Para conversar sobre projetos, oportunidades ou trocar ideias, me encontre no [LinkedIn](https://www.linkedin.com/in/luiz-gustavo-de-campos-amaral-122622278/) ou envie um [e-mail](mailto:luizgustavo092005@gmail.com).
