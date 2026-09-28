@@ -6,7 +6,7 @@
 
 Construindo aplicações que conectam interfaces, serviços e dados.
 
-[LinkedIn](https://www.linkedin.com/in/luiz-gustavo-de-campos-amaral-122622278/) · [E-mail](mailto:luizgustavo092005@gmail.com) · [Portfólio — código-fonte](https://github.com/lzAmaral/Meu-portifolio)
+[LinkedIn](https://www.linkedin.com/in/luiz-amarall/) · [E-mail](mailto:luizgustavo092005@gmail.com) · [Portfólio — código-fonte](https://github.com/lzAmaral/Meu-portifolio)
 
 </div>
 
@@ -49,4 +49,4 @@ Git · GitHub · Docker · Maven · Flyway
 
 ## Vamos conversar
 
-Para conversar sobre projetos, oportunidades ou trocar ideias, me encontre no [LinkedIn](https://www.linkedin.com/in/luiz-gustavo-de-campos-amaral-122622278/) ou envie um [e-mail](mailto:luizgustavo092005@gmail.com).
+Para conversar sobre projetos, oportunidades ou trocar ideias, me encontre no [LinkedIn](https://www.linkedin.com/in/luiz-amarall/) ou envie um [e-mail](mailto:luizgustavo092005@gmail.com).
