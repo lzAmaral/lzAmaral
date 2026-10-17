@@ -24,29 +24,6 @@ Sou desenvolvedor Full Stack na **FluxoMind**, onde trabalho com aplicações e 
 
 Meu foco está em **Full Stack com IA**: sistemas agênticos com **LangGraph**, pipelines de **RAG**, embeddings e recuperação semântica. Também desenvolvo com **Java, Spring Boot, TypeScript e Node.js**.
 
-## Projeto em destaque
-
-### 🚘 WebCars · Catálogo inteligente de veículos
-
-**[Conheça o código →](https://github.com/lzAmaral/FluxoMind_WebCars)**
-
-Desenvolvi todas as partes do WebCars: uma aplicação de veículos com catálogo, filtros, comparação, assistente de IA, captura de leads e painel administrativo.
-
-- **Full Stack:** interface em Next.js, API em Express e banco PostgreSQL.
-- **IA com contexto:** pipeline RAG com embeddings e pgvector para consultar informações do catálogo e apoiar as respostas do assistente.
-- **Assistente contextual:** recomenda veículos com base no catálogo e faz perguntas de esclarecimento para entender melhor a busca.
-- **Fluxo completo:** da descoberta de um veículo à captura de interesse e gestão de leads.
-
-<sub>Next.js · TypeScript · Node.js · Express · PostgreSQL · pgvector · Gemini</sub>
-
-## Mais projetos
-
-**[Mercado Tech Brasil](https://github.com/lzAmaral/caged-etl-analytics)** — Pipeline ETL e dashboard para explorar salários e contratações de TI com dados do Novo CAGED.<br>
-<sub>Java · Spring Boot · Spring Batch · PostgreSQL · Chart.js</sub>
-
-**[Blog · Backend](https://github.com/lzAmaral/blog-backend)** — Publicação de artigos com autenticação JWT, upload de imagens e controle de autoria.<br>
-<sub>Node.js · TypeScript · Express · MySQL</sub><br>
-[Explorar também o frontend →](https://github.com/lzAmaral/blog-frontend)
 
 ## Tecnologias
 
